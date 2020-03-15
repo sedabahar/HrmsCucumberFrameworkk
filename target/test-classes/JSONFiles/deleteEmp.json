@@ -1,0 +1,10 @@
+ {
+            "employee_id": "05388A",
+            "emp_firstname": "student1",
+            "emp_middle_name": null,
+            "emp_lastname": "student1",
+            "emp_birthday": "1980-02-18",
+            "emp_gender": "1",
+            "emp_job_title": "Developer",
+            "emp_status": "Employee"
+        },
